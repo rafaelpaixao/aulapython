@@ -1,0 +1,1 @@
+STATIC_ROOT = 'home/raelpx/aulapython/static/'
