@@ -1,1 +1,1 @@
-STATIC_ROOT = 'home/raelpx/aulapython/static/'
+STATIC_ROOT = 'static/'
