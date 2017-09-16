@@ -14,8 +14,3 @@ class Pizza(models.Model):
 
     def __str__(self):
         return self.name
-
-class Order(models.Model):
-    notes = models.TextField(verbose_name=u"Anotação")
-    client = models.ForeignKey('auth.User',related_name='orders')
-
