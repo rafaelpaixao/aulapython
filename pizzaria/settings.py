@@ -25,7 +25,7 @@ SECRET_KEY = 'n*k9#_bt5q5a%@=wv$7o=%tg*d267ch$r6%^yho@f7my5%@3(!'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost']
+ALLOWED_HOSTS = ['localhost','raelpx.pythonanywhere.com']
 
 
 # Application definition
